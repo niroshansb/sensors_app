@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/niroshan/Documents/android/azizi-odk-sensors-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="672f2aebac93e61ca28fb58a72f483fc05130cbd">
+        <dex dex="/home/niroshan/Documents/android/azizi-odk-sensors-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7ae03f5f71c6e7967fde61ad950b8cfd99646d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/niroshan/Documents/android/azizi-odk-sensors-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/niroshan/Documents/android/azizi-odk-sensors-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5f19f039dbe18cc0cb5425d5fa75309c6059f18e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/niroshan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/niroshan/Desktop/ODK/project/azizi-odk-sensors-master/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_a69580251e73d7a8b9efeb9c7ffcfae07028060c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/niroshan/.android/build-cache/9ac848b3a04ea989292d068a4ae86712363cfb94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/niroshan/Desktop/ODK/project/azizi-odk-sensors-master/app/build/intermediates/pre-dexed/debug/classes_9a492a9289292c04d8755daddfa4ddda642e6025.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/niroshan/.android/build-cache/9ac848b3a04ea989292d068a4ae86712363cfb94/output/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/niroshan/Documents/android/azizi-odk-sensors-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_f51ed0b99cbd7640ad9f70750f9587b54e1d6c44/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/niroshan/.android/build-cache/9ac848b3a04ea989292d068a4ae86712363cfb94/output/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/niroshan/Desktop/ODK/project/azizi-odk-sensors-master/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_f51ed0b99cbd7640ad9f70750f9587b54e1d6c44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/niroshan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/niroshan/Documents/android/azizi-odk-sensors-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_a69580251e73d7a8b9efeb9c7ffcfae07028060c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/niroshan/.android/build-cache/9ac848b3a04ea989292d068a4ae86712363cfb94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/niroshan/Documents/android/azizi-odk-sensors-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a492a9289292c04d8755daddfa4ddda642e6025/classes.dex" />
+    </item>
+
+</items>
